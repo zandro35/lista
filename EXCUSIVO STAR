@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="EXCLUSIVO STAR+ 1" tvg-logo="http://daleplay.club:8080/images/c432644aa137982307d590564818f76d.png" group-title="EXCLUSIVO STAR+",EXCLUSIVO STAR+ 1
+http://streamingtv.vip:8080/TvDigitalJun8703/FUNskUFS3GbT/116008
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ FHD" tvg-logo="http://daleplay.club:8080/images/c432644aa137982307d590564818f76d.png" group-title="EXCLUSIVO STAR+",STAR+ FHD
+http://streamingtv.vip:8080/TvDigitalJun8703/FUNskUFS3GbT/161663
+#EXTINF:-1 tvg-id="" tvg-name="STAR+ HD" tvg-logo="http://daleplay.club:8080/images/c432644aa137982307d590564818f76d.png" group-title="EXCLUSIVO STAR+",STAR+ HD
+http://streamingtv.vip:8080/TvDigitalJun8703/FUNskUFS3GbT/161664
+#EXTINF:-1 tvg-id="fox.cl" tvg-name="CL | FOX SPORTS 1 HD" tvg-logo="http://daleplay.club:8080/images/eb68a956cbd521edc4661349ff8a5059.png" group-title="(TV) CHILE",CL | FOX SPORTS 1 HD
+http://streamingtv.vip:8080/TvDigitalJun8703/FUNskUFS3GbT/144622
+#EXTINF:-1 tvg-id="espn2.co" tvg-name="LAT | ESP? 2  FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo0ADSBQMZ0Kd4Knaol7aNQjhcomUqVVXdA&usqp=CAU" group-title="(TV) DEPORTE LATINO",LAT | ESP? 2  FHD
+http://streamingtv.vip:8080/TvDigitalJun8703/FUNskUFS3GbT/72
+#EXTINF:-1 tvg-id="1621dtv.ar" tvg-name="LAT | ESP? 1  HD" tvg-logo="http://daleplay.club:8080/images/b53036b7258ae3b5df71a67afd1fdc89.png" group-title="(TV) DEPORTE LATINO",LAT | ESP? 1  HD
+http://streamingtv.vip:8080/TvDigitalJun8703/FUNskUFS3GbT/74
+#EXTINF:-1 tvg-id="foxsports3.ar" tvg-name="LAT | F0X $PORTS 3  SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAuFL8dqu1XZdBRukPLK0YQxuaU6T_igqJw&usqp=CAU" group-title="(TV) DEPORTE LATINO",LAT | F0X $PORTS 3  SD
+http://streamingtv.vip:8080/TvDigitalJun8703/FUNskUFS3GbT/76
+#EXTINF:-1 tvg-id="FoxSports3.ar" tvg-name="LAT | E$PN 3 FHD*" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytTXX4p_2gch9e_nz6CyZTg-6G6iMdOb0qw&usqp=CAU" group-title="CHAMPIONS LEAGUE?",LAT | E$PN 3 FHD*
+http://streamingtv.vip:8080/TvDigitalJun8703/FUNskUFS3GbT/54516
+
